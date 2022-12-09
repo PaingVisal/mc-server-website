@@ -10,3 +10,4 @@ Simple, clean website for minecraft servers. Everything is customizable.
 http://oliminator.net/mc-server-website/
 </div>
 # website
+# website
